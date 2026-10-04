@@ -3,12 +3,12 @@
     <img src="assets/leetin-logo.svg" alt="LeetIn" width="360" />
   </a>
 
+  <p><a href="https://leetin.me"><strong>Visit LeetIn.me</strong></a></p>
+
   <p><strong>Practice the code you want to remember.</strong></p>
   <p>Active-recall exercises for coding interview solutions.</p>
 
   <p>
-    <a href="https://leetin.me"><strong>Try LeetIn</strong></a>
-    ·
     <a href="docs/ARCHITECTURE.md">Architecture</a>
     ·
     <a href="docs/SHOWCASE-SCOPE.md">Showcase scope</a>
