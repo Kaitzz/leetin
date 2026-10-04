@@ -1,0 +1,19 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# This showcase has no install step, but keep accidental local output private.
+node_modules/
+.next/
+out/
+coverage/
+*.log
+
+# Never publish local configuration or credentials.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
